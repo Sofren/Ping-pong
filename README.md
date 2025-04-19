@@ -41,7 +41,7 @@
 - [Мой профиль в ТГ]( https://t.me/S0fren "Куклев Артём")
 
 ## Изображение 
-![Фото]( C:\Users\Sofren\Desktop\аиаиваи.jpg)
+![Фото](https://avatars.mds.yandex.net/i?id=12ef93560c26f8d3e50cc0596db0184e2f18ebde-12941940-images-thumbs&n=13)
 
 ## Пример кода 
 ```python 
